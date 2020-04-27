@@ -1,0 +1,11 @@
+C:\Sicred\git\rafael\estimativas\bin\Debug\netcoreapp3.1\estimativas.exe
+C:\Sicred\git\rafael\estimativas\bin\Debug\netcoreapp3.1\estimativas.deps.json
+C:\Sicred\git\rafael\estimativas\bin\Debug\netcoreapp3.1\estimativas.runtimeconfig.json
+C:\Sicred\git\rafael\estimativas\bin\Debug\netcoreapp3.1\estimativas.runtimeconfig.dev.json
+C:\Sicred\git\rafael\estimativas\bin\Debug\netcoreapp3.1\estimativas.dll
+C:\Sicred\git\rafael\estimativas\bin\Debug\netcoreapp3.1\estimativas.pdb
+C:\Sicred\git\rafael\estimativas\obj\Debug\netcoreapp3.1\estimativas.csprojAssemblyReference.cache
+C:\Sicred\git\rafael\estimativas\obj\Debug\netcoreapp3.1\estimativas.AssemblyInfoInputs.cache
+C:\Sicred\git\rafael\estimativas\obj\Debug\netcoreapp3.1\estimativas.AssemblyInfo.cs
+C:\Sicred\git\rafael\estimativas\obj\Debug\netcoreapp3.1\estimativas.dll
+C:\Sicred\git\rafael\estimativas\obj\Debug\netcoreapp3.1\estimativas.pdb
