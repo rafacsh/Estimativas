@@ -1,2 +1,4 @@
 # Estimativas
-Projeto Console application criado para calcular estimativas de 3 pontos (PERT) e Desvio padrão
+Projeto Console application criado para calcular estimativas (PERT) e Desvio padrão.
+
+Criado em dontet.core 3.1 com c#
